@@ -1,3 +1,0 @@
-https://www.tinkercad.com/things/bLiNcTjHe00
-
-We tested our functionality using the code on tinkercad. This link should allow you to test it yourself
